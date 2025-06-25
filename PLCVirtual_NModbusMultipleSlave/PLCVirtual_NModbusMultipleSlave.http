@@ -1,0 +1,6 @@
+@PLCVirtual_NModbusMultipleSlave_HostAddress = http://localhost:5254
+
+GET {{PLCVirtual_NModbusMultipleSlave_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
